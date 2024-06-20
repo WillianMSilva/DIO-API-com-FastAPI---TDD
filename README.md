@@ -1,5 +1,5 @@
 
-# API com FASTPAI TDD
+# API com FASTAPI TDD
 
 Neste projeto aprendi na prática como implementar o TDD em uma aplicação utilizando FastAPI juntamente com Pytest. API utilizando o banco de dados MongoDB e realizando testes unitários e de integração.
 
